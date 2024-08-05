@@ -15,11 +15,18 @@ A simple electronic library system implemented in Java. This system allows users
 
    
 $ java LibrarySystem
+</br>
 Enter username: alice
+</br>
 Enter password: 1234
+</br>
 Login successful!
+</br>
 Enter a command (borrow/return/search/exit): search Mystery
+</br>
 No books found in the Mystery category.
+</br>
 Enter a command (borrow/return/search/exit): exit
+</br>
 Goodbye!
 
