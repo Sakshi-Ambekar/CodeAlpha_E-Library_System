@@ -13,19 +13,7 @@ A simple electronic library system implemented in Java. This system allows users
    ```sh
    git clone https://github.com/Sakshi-Ambekar/CodeAlpha_E-Library_System.git
 
-
-
-cd LibrarySystem
-Compile the Java Files:
-
-sh
-Copy code
-javac *.java
-Run the Application:
-
-sh
-Copy code
-java LibrarySystem
+   
 Sample Users
 Username	Password
 alice	1234
